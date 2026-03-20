@@ -162,7 +162,7 @@ Migrating in batches of 10...
 [3/3] Migrating vol-0ghi789 (50 GB) → gp3...
   ✓ vol-0ghi789 migration started
 
-Done with us-west-1. Migrated 3 volumes. Saving $7.00/month.
+Done with us-west-1. Success: 3, Failed: 0. Saving $7.00/month.
 ```
 
 ## Check Migration Status
